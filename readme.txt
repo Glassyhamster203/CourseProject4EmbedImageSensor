@@ -1,0 +1,1 @@
+This is a pile of garbage, born solely for the purpose of a course project, with no real-world significance. Reluctantly, I am making it public, and I can’t even bring myself to write a decent markdown file for it.
